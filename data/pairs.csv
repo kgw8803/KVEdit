@@ -1,0 +1,8 @@
+idx,source_img,source_prompt,target_img,target_prompt,pose_match
+001,source/simg_00.jpg,a cat sitting on a pink bed,target/timg_00.jpg,a stuffed husky dog on concrete,True
+002,source/simg_01.jpg,a candle on a rock,target/timg_01.jpg,a red plush monster toy on the ground,True
+003,source/simg_02.jpg,a hawk perched on a tree,target/timg_02.jpg,a kingfisher bird on a branch,True
+004,source/simg_03.jpg,a red fire hydrant on a street,target/timg_03.jpg,a golden retriever holding a stick,True
+005,source/simg_04.jpg,a woman wearing a purple top and jeans,target/timg_04.jpg,a red cardigan shirt isolated on white,True
+
+

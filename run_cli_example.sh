@@ -19,10 +19,10 @@ echo "✅ Conda environment 'KV-Edit' activated successfully"
 echo ""
 
 # Set default paths (modify these according to your setup)
-INPUT_IMAGE="path/to/your/input_image.jpg"
-MASK_IMAGE="path/to/your/mask_image.png"
-SOURCE_PROMPT="A person standing in a garden"
-TARGET_PROMPT="A robot standing in a garden"
+INPUT_IMAGE="data/source/simg_00.jpg"
+MASK_IMAGE="data/s_masks/simg_00_mask.png"
+SOURCE_PROMPT="a brown cat sitting on a pink bed"
+TARGET_PROMPT="a grey plush husky toy  on a pink bed"
 
 # Check if required files exist
 if [ ! -f "$INPUT_IMAGE" ]; then
